@@ -1,0 +1,15 @@
+.center{
+ text-align: center;
+
+}
+.profile
+{
+  border-radius: 50%;
+  width: 150px;
+
+}
+.icon {
+    border-radius: 50%;
+    width: 80px;
+    
+  }

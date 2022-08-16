@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+.arrow{
+    text-decoration: none;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px 10px;
+    border-radius: 4px;  
+    font-size: 19px;
+   
+    
+}
+.arrow:hover{
+background: rgb(220 53 69 / 85%);
+}
+.arrow:focus{
+    outline: 3px solid rgb(220 53 69 / 50%);
+}
+.aaa{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
