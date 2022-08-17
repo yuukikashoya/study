@@ -17,6 +17,7 @@ background: rgb(220 53 69 / 85%);
 }
 .aaa{
     display: flex;
+    position: sticky;
     justify-content: space-between;
     margin-top: 20px;
 }

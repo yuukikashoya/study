@@ -9,17 +9,20 @@
    
    }
    .icon {
-       border-radius: 50%;
-       width: 80px;
       
-      margin-left: 100px;
-      margin-right: 100px;
-      
+       width: 125px;
+       height: 100px;
+       margin-top: 50px;
+       margin-left: 25px;
+       margin-right: 25px;
+
+     
      }
      .headtitle{
       font-family: Bradley Hand ITC;
       font-weight: bold;
      }
+   
      .footer {
       position: absolute;
       bottom: 0;
