@@ -8,11 +8,13 @@ import { AppRoutingModule, routingComponests} from './app-routing.module';
 
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
     NavListComponent,
 routingComponests,
+
 
   ],
   imports: [
