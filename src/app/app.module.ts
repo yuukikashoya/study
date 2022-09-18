@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { NavListComponent } from './nav-list/nav-list.component';
 
 import { AppRoutingModule, routingComponests} from './app-routing.module';
+import { FormsModule } from '@angular/forms';
 
 
 
@@ -16,10 +17,12 @@ import { AppRoutingModule, routingComponests} from './app-routing.module';
 routingComponests,
 
 
+
   ],
   imports: [
     BrowserModule,
     AppRoutingModule // CLI adds AppRoutingModule to the AppModule's imports array
+    ,FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
